@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emperatriz 
-- I’m interested in books, and government tech projects that help to improve our public system 
-- 🌱 I’m currently learning Agile Methods focus on Scrum framework
+- I’m interested in books, and government tech projects that help to improve our public system. 
+- 🌱 I’m currently work with Agile Methods focus on Scrum framework
 
 
 <!---
